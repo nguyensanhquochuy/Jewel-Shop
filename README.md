@@ -1,6 +1,6 @@
 # jewel_project
 
-Group Project.
+Group Project..
 
 ## Getting Started
 
